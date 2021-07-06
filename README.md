@@ -1,4 +1,8 @@
-﻿## Getting Started
+﻿# MyTodoApp
+ 
+Sample project about personal task manager using Node.JS, React, and MySQL. Project was generated with Web Template Studio (https://github.com/microsoft/WebTemplateStudio). Used as final exam for my students in Isomorphic Web Development course.
+ 
+ ## Getting Started
 
 In the root directory of the project...
 
